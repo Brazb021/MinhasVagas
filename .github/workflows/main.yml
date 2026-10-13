@@ -1,7 +1,7 @@
 name: Monitor de Vagas Gupy
 
 on:
-  # Todo dia às 18h30 no horário de Brasília. O cron do GitHub Actions é sempre
+  # Todo dia às 18h37 no horário de Brasília. O cron do GitHub Actions é sempre
   # em UTC e o Brasil é UTC-3, então 18h30 aqui vira 21h30 UTC. O Brasil não tem
   # horário de verão desde 2019, então o deslocamento é fixo o ano todo.
   #
@@ -15,7 +15,7 @@ on:
   # falta é guardiao.yml; quem avisa que os dois caíram é o ping de heartbeat no
   # fim deste arquivo.
   schedule:
-    - cron: '30 21 * * *'
+    - cron: '37 18 * * *'
   workflow_dispatch: # Permite disparar manualmente na aba Actions do GitHub
 
 jobs:

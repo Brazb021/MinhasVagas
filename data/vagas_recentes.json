@@ -1,5 +1,21 @@
 [
   {
+    "id": "12741976",
+    "name": "Estágio em Engenharia | Segmento Ferroviário – Lapa/SP",
+    "workplaceType": "on-site",
+    "jobUrl": "https://viadeacesso.gupy.io/job/eyJqb2JJZCI6MTI3NDE5NzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publishedDate": "2026-10-17T00:30:24.849Z",
+    "topic": "Estágio",
+    "data_formatada_br": "16/10/2026 às 21:30",
+    "careerPageName": "Via de Acesso",
+    "careerPageUrl": "",
+    "careerPageLogo": "https://attachments.gupy.io/production/companies/78973/career/199198/images/2024-12-13_16-12_companyLogoUrl.png",
+    "isRemoteWork": false,
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "country": ""
+  },
+  {
     "id": "12740869",
     "name": "Software Engineer Manager (Vaga Afirmativa para Pessoas Negras)",
     "workplaceType": "remote",
@@ -1533,38 +1549,6 @@
     "isRemoteWork": false,
     "city": "São Paulo",
     "state": "São Paulo",
-    "country": ""
-  },
-  {
-    "id": "12709742",
-    "name": "Analista de Suporte Técnico",
-    "workplaceType": "remote",
-    "jobUrl": "https://attus.gupy.io/job/eyJqb2JJZCI6MTI3MDk3NDIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-    "publishedDate": "2026-10-09T23:14:59.904Z",
-    "topic": "Suporte Remoto",
-    "data_formatada_br": "09/10/2026 às 20:14",
-    "careerPageName": "Attus Procuradoria Digital",
-    "careerPageUrl": "",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/17494/career/165061/images/2023-12-06_17-15_companyLogoUrl.png",
-    "isRemoteWork": false,
-    "city": "",
-    "state": "",
-    "country": ""
-  },
-  {
-    "id": "12709391",
-    "name": "Desenvolvedor de Material Pedagógico",
-    "workplaceType": "remote",
-    "jobUrl": "https://mindlab.gupy.io/job/eyJqb2JJZCI6MTI3MDkzOTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-    "publishedDate": "2026-10-09T21:55:32.096Z",
-    "topic": "Desenvolvimento Remoto",
-    "data_formatada_br": "09/10/2026 às 18:55",
-    "careerPageName": "Mind Lab",
-    "careerPageUrl": "",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/35512/career/81487/images/2026-06-05_21-01_companyLogoUrl.png",
-    "isRemoteWork": false,
-    "city": "",
-    "state": "",
     "country": ""
   }
 ]

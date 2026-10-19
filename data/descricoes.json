@@ -1,516 +1,4 @@
 {
-  "12712249": {
-    "fonte": "html",
-    "secoes": [
-      {
-        "titulo": "Responsabilidades",
-        "blocos": [
-          {
-            "tipo": "texto",
-            "texto": "🔹"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Atendimento em Campo (Field Service):"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Realizar manutenções preventivas e corretivas em equipamentos de TI, cumprindo rigorosamente as rotas, agendas, SLAs e procedimentos internos."
-          },
-          {
-            "tipo": "texto",
-            "texto": "🔹"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Suporte à Infraestrutura e Redes:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Instalar, configurar e prestar suporte a equipamentos de rede (Switches, Roteadores, Repetidores, Access Points e CFTV), além de atuar ativamente com cabeamento estruturado (identificação de pontos, testes e correções básicas)."
-          },
-          {
-            "tipo": "texto",
-            "texto": "🔹"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Sistemas e Padronização:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Executar processos de baixa de imagem, formatação, reinstalação e padronização de Sistemas Operacionais, garantindo testes rigorosos de funcionamento após cada intervenção."
-          },
-          {
-            "tipo": "texto",
-            "texto": "🔹"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Gestão de Chamados e Logística:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Registrar, atualizar e encerrar chamados técnicos via celular ou sistema corporativo. Efetuar o controle de peças (troca, recebimento e devolução) garantindo a rastreabilidade, além de realizar o controle e registro diário de quilometragem (KM) e deslocamentos."
-          },
-          {
-            "tipo": "texto",
-            "texto": "🔹"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Experiência do Cliente e Sinergia:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Orientar os usuários finais sobre o uso adequado dos equipamentos, atuando de forma colaborativa e prestando apoio a outros técnicos e áreas internas."
-          }
-        ]
-      },
-      {
-        "titulo": "Requisitos",
-        "blocos": [
-          {
-            "tipo": "texto",
-            "texto": "✅"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Mandatório: Veículo próprio disponível para atuação em campo/lojas."
-          },
-          {
-            "tipo": "texto",
-            "texto": "✅ Vivência prática em manutenção de equipamentos de TI (desktops, notebooks, impressoras e periféricos) e capacidade para substituição ágil de peças."
-          },
-          {
-            "tipo": "texto",
-            "texto": "✅ Domínio em rotinas de baixa de imagem, formatação e reinstalação de Sistemas Operacionais."
-          },
-          {
-            "tipo": "texto",
-            "texto": "✅ Conhecimento prático em cabeamento estruturado, com noções fundamentais de redes de computadores e conectividade."
-          },
-          {
-            "tipo": "texto",
-            "texto": "✅ Familiaridade com suporte a equipamentos de infraestrutura (Switches, Roteadores, Repetidores, Access Points e CFTV)."
-          },
-          {
-            "tipo": "texto",
-            "texto": "✅ Experiência com sistemas de chamados técnicos e habilidade no uso de aplicativos corporativos em smartphones."
-          },
-          {
-            "tipo": "texto",
-            "texto": "✅ Capacidade de realizar testes e validações técnicas focadas na excelência do atendimento."
-          },
-          {
-            "tipo": "texto",
-            "texto": "✅ Conhecimento básico dos princípios de Segurança da Informação."
-          }
-        ]
-      },
-      {
-        "titulo": "Informações adicionais",
-        "blocos": [
-          {
-            "tipo": "texto",
-            "texto": "🏷️"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "ESCALA:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "12x36, em regime 100% presencial."
-          },
-          {
-            "tipo": "texto",
-            "texto": "🕑"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "HORÁRIO:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "09h00 às 21h00."
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "BENEFÍCIOS:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "🍽️"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "VALE-REFEIÇÃO:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "R$ 32,00 por dia trabalhado, através do Cartão Flash Benefícios."
-          },
-          {
-            "tipo": "texto",
-            "texto": "🚗"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "REEMBOLSO LOCOMOÇÃO:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Reembolso de combustível no valor de R$ 1,00 por KM rodado, além de cobertura para pedágios no trajeto e despesas com estacionamento quando necessário."
-          },
-          {
-            "tipo": "texto",
-            "texto": "🏨"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "CONVÊNIO MÉDICO:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Plano Amil, 100% custeado para o colaborador. Extensivo a cônjuge e filhos até 24 anos, com desconto mensal e de coparticipação em folha, conforme política interna."
-          },
-          {
-            "tipo": "texto",
-            "texto": "🦷"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "CONVÊNIO ODONTOLÓGICO:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Opcional, Plano Amil, com desconto em folha conforme o plano selecionado. Extensivo a cônjuge e filhos até 24 anos, com desconto em folha."
-          },
-          {
-            "tipo": "texto",
-            "texto": "🛡️"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "SEGURO DE VIDA:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Cobertura corporativa para garantir a sua tranquilidade e a segurança da sua família."
-          },
-          {
-            "tipo": "texto",
-            "texto": "💪"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "TOTALPASS:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Acesso a uma ampla rede de academias e estúdios de bem-estar, com plano extensível aos seus dependentes."
-          },
-          {
-            "tipo": "texto",
-            "texto": "🎓"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "UNIVERSIDADE ENGEMON:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Plataforma de cursos com certificados digitais, focada no seu desenvolvimento técnico e profissional."
-          },
-          {
-            "tipo": "texto",
-            "texto": "🍼"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "KIT NATALIDADE:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Um mimo preparado com carinho para celebrar a chegada do mais novo membro da sua família."
-          },
-          {
-            "tipo": "texto",
-            "texto": "🧸"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "AUXÍLIO CRECHE:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Reembolso para filhos até 60 meses de acordo com a convenção coletiva vigente. Para solicitar o auxílio é necessário enviar documento comprovatório."
-          },
-          {
-            "tipo": "texto",
-            "texto": "🧩"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "AUXÍLIO CRIANÇA EXCEPCIONAL:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "Auxílio financeiro para filhos ou dependentes portadores de necessidades especiais, de acordo com a convenção coletiva vigente. Para solicitar o auxílio é necessário enviar o laudo comprobatório."
-          }
-        ]
-      }
-    ]
-  },
-  "12712244": {
-    "fonte": "html",
-    "secoes": [
-      {
-        "titulo": "Responsabilidades",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "Atender e prestar consultoria de moda para os clientes;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Receber e organizar produtos no estoque;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Abastecer os produtos no PDV (ponto de venda), por categoria, grade, quantidade e padrão de Visual Merchandinsing (VM);"
-          },
-          {
-            "tipo": "item",
-            "texto": "Realizar a passadoria de todos os produtos expostos em loja;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Montar vitrine, produzir manequins e coordenações de moda na loja de acordo com as orientações dos líderes da loja e do manual de VM."
-          }
-        ]
-      },
-      {
-        "titulo": "Requisitos",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "Ensino Médio completo;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Gostar de atendimento ao cliente;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Paixão por moda e identificação pelo nosso negócio;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Desejável experiência anterior em vendas."
-          }
-        ]
-      },
-      {
-        "titulo": "Informações adicionais",
-        "blocos": [
-          {
-            "tipo": "subtitulo",
-            "texto": "Fique por dentro dos nossos benefícios!"
-          },
-          {
-            "tipo": "texto",
-            "texto": "*Consulte elegibilidade do seu cargo."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Para facilitar o seu dia a dia:"
-          },
-          {
-            "tipo": "item",
-            "texto": "Vale-Transporte e/ou Fretado para vagas dos nossos CDs*;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Vale-Refeição/Alimentação;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Vale-Cesta de Natal;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Auxílio Home Office (para contratos de trabalho híbrido ou remoto)*;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Cartão de crédito multicompras;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Desconto de Colaborador nas nossas lojas."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Para sua saúde e bem-estar:"
-          },
-          {
-            "tipo": "item",
-            "texto": "Assistência Médica;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Dr. Be (telemedicina, telepsicologia, coaching nutricional e coaching esportivo)*;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Wellhub (Gympass);"
-          },
-          {
-            "tipo": "item",
-            "texto": "Programas e Campanhas desenvolvidos para promover o autocuidado da saúde e bem-estar dos nossos colaboradores e seus familiares."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Para sua flexibilidade e rotina:"
-          },
-          {
-            "tipo": "item",
-            "texto": "Metodologia Balance aplicada junto a liderança e time fortalecendo a comunicação e reconhecimento, bem-estar e estilo de trabalho/ferramentas."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Conheça nossa SER (Associação dos Colaboradores Renner S.A.) que dá acesso à mais benefícios:"
-          },
-          {
-            "tipo": "item",
-            "texto": "Plano odontológico;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Univers - desconto nas farmácias Raia e Drogasil;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Convênio de saúde para Pets;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Assessoria de Corrida;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Desconto em universidades, escolas, cursos de idioma e profissionalizantes;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Ingressos de cinemas, parques e muito mais."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Pessoas com deficiência são bem-vindas em todas as nossas oportunidades."
-          }
-        ]
-      }
-    ]
-  },
-  "12712246": {
-    "fonte": "html",
-    "secoes": [
-      {
-        "titulo": "Responsabilidades",
-        "blocos": [
-          {
-            "tipo": "subtitulo",
-            "texto": "Como será o seu dia a dia"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "(spoiler: gerar muitos sorrisos faz parte do pacote)!"
-          },
-          {
-            "tipo": "item",
-            "texto": "A gente contará com você para as atividades operacionais do restaurante: preparar e montar os pedidos; atendimento ao cliente e, também, garantir que ambiente e equipamentos estejam sempre limpos. Confira detalhes!"
-          },
-          {
-            "tipo": "item",
-            "texto": "Atender aos clientes é uma das partes mais importantes do trabalho: é nossa prioridade gerar sorrisos! Você, como atendente, será responsável pelo atendimento nos nossos restaurantes, com atividades como gerar os pedidos e receber o pagamento, inclusive no nosso Drive-Tudo."
-          },
-          {
-            "tipo": "item",
-            "texto": "Preparar as delícias que saem da nossa cozinha: sanduíches, McFritas, bebidas e sobremesas, como a nossa famosa casquinha. 🍦"
-          },
-          {
-            "tipo": "item",
-            "texto": "Você será treinado para operar equipamentos apropriados e, também, sobre como manter nosso super padrão de qualidade, higiene, limpeza e segurança."
-          },
-          {
-            "tipo": "item",
-            "texto": "Limpar a e higienizar nossos equipamentos, pisos, cadeiras, mesas e instalações do restaurante e arredores, sempre de acordo com as orientações e manual de operação."
-          },
-          {
-            "tipo": "item",
-            "texto": "Participar de nossos programas de treinamento, integração e comunicação por meio de reuniões, webinares, sessões de participação e cursos técnicos. O objetivo é garantir que você esteja sempre atualizado tanto na parte técnica quanto operacional."
-          }
-        ]
-      },
-      {
-        "titulo": "Requisitos",
-        "blocos": [
-          {
-            "tipo": "subtitulo",
-            "texto": "Ingrediente que não pode faltar 🍔"
-          },
-          {
-            "tipo": "item",
-            "texto": "Ensino médio cursando ou completo."
-          }
-        ]
-      },
-      {
-        "titulo": "Informações adicionais",
-        "blocos": [
-          {
-            "tipo": "subtitulo",
-            "texto": "Benefícios que deixam tudo ainda mais gostoso 😋"
-          },
-          {
-            "tipo": "item",
-            "texto": "Assistência Médica"
-          },
-          {
-            "tipo": "item",
-            "texto": "Assistência Odontológica;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Vale transporte;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Refeição no local;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Gympass;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Seguro de vida;"
-          },
-          {
-            "tipo": "item",
-            "texto": "PPR - Participação nos lucros."
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Pronto para uma experiência tão inesquecível quanto um Big Mac? Se inscreva! ⌨"
-          }
-        ]
-      }
-    ]
-  },
   "12713012": {
     "fonte": "html",
     "secoes": [
@@ -118226,6 +117714,102 @@
           {
             "tipo": "item",
             "texto": "Previdência Privada"
+          }
+        ]
+      }
+    ]
+  },
+  "12743716": {
+    "fonte": "html",
+    "secoes": [
+      {
+        "titulo": "Responsabilidades",
+        "blocos": [
+          {
+            "tipo": "subtitulo",
+            "texto": "Como será o seu dia a dia"
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "(spoiler: gerar muitos sorrisos faz parte do pacote)!"
+          },
+          {
+            "tipo": "item",
+            "texto": "A gente contará com você para as atividades operacionais do restaurante: preparar e montar os pedidos; atendimento ao cliente e, também, garantir que ambiente e equipamentos estejam sempre limpos. Confira detalhes!"
+          },
+          {
+            "tipo": "item",
+            "texto": "Atender aos clientes é uma das partes mais importantes do trabalho: é nossa prioridade gerar sorrisos! Você, como atendente, será responsável pelo atendimento nos nossos restaurantes, com atividades como gerar os pedidos e receber o pagamento, inclusive no nosso Drive-Tudo."
+          },
+          {
+            "tipo": "item",
+            "texto": "Preparar as delícias que saem da nossa cozinha: sanduíches, McFritas, bebidas e sobremesas, como a nossa famosa casquinha. 🍦"
+          },
+          {
+            "tipo": "item",
+            "texto": "Você será treinado para operar equipamentos apropriados e, também, sobre como manter nosso super padrão de qualidade, higiene, limpeza e segurança."
+          },
+          {
+            "tipo": "item",
+            "texto": "Limpar a e higienizar nossos equipamentos, pisos, cadeiras, mesas e instalações do restaurante e arredores, sempre de acordo com as orientações e manual de operação."
+          },
+          {
+            "tipo": "item",
+            "texto": "Participar de nossos programas de treinamento, integração e comunicação por meio de reuniões, webinares, sessões de participação e cursos técnicos. O objetivo é garantir que você esteja sempre atualizado tanto na parte técnica quanto operacional."
+          }
+        ]
+      },
+      {
+        "titulo": "Requisitos",
+        "blocos": [
+          {
+            "tipo": "subtitulo",
+            "texto": "Ingrediente que não pode faltar 🍔"
+          },
+          {
+            "tipo": "item",
+            "texto": "Ensino médio cursando ou completo."
+          }
+        ]
+      },
+      {
+        "titulo": "Informações adicionais",
+        "blocos": [
+          {
+            "tipo": "subtitulo",
+            "texto": "Benefícios que deixam tudo ainda mais gostoso 😋"
+          },
+          {
+            "tipo": "item",
+            "texto": "Assistência Médica"
+          },
+          {
+            "tipo": "item",
+            "texto": "Assistência Odontológica;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Vale transporte;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Refeição no local;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Gympass;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Seguro de vida;"
+          },
+          {
+            "tipo": "item",
+            "texto": "PPR - Participação nos lucros."
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Pronto para uma experiência tão inesquecível quanto um Big Mac? Se inscreva! ⌨"
           }
         ]
       }

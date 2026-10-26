@@ -1,100 +1,4 @@
 {
-  "12743716": {
-    "fonte": "html",
-    "secoes": [
-      {
-        "titulo": "Responsabilidades",
-        "blocos": [
-          {
-            "tipo": "subtitulo",
-            "texto": "Como será o seu dia a dia"
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "(spoiler: gerar muitos sorrisos faz parte do pacote)!"
-          },
-          {
-            "tipo": "item",
-            "texto": "A gente contará com você para as atividades operacionais do restaurante: preparar e montar os pedidos; atendimento ao cliente e, também, garantir que ambiente e equipamentos estejam sempre limpos. Confira detalhes!"
-          },
-          {
-            "tipo": "item",
-            "texto": "Atender aos clientes é uma das partes mais importantes do trabalho: é nossa prioridade gerar sorrisos! Você, como atendente, será responsável pelo atendimento nos nossos restaurantes, com atividades como gerar os pedidos e receber o pagamento, inclusive no nosso Drive-Tudo."
-          },
-          {
-            "tipo": "item",
-            "texto": "Preparar as delícias que saem da nossa cozinha: sanduíches, McFritas, bebidas e sobremesas, como a nossa famosa casquinha. 🍦"
-          },
-          {
-            "tipo": "item",
-            "texto": "Você será treinado para operar equipamentos apropriados e, também, sobre como manter nosso super padrão de qualidade, higiene, limpeza e segurança."
-          },
-          {
-            "tipo": "item",
-            "texto": "Limpar a e higienizar nossos equipamentos, pisos, cadeiras, mesas e instalações do restaurante e arredores, sempre de acordo com as orientações e manual de operação."
-          },
-          {
-            "tipo": "item",
-            "texto": "Participar de nossos programas de treinamento, integração e comunicação por meio de reuniões, webinares, sessões de participação e cursos técnicos. O objetivo é garantir que você esteja sempre atualizado tanto na parte técnica quanto operacional."
-          }
-        ]
-      },
-      {
-        "titulo": "Requisitos",
-        "blocos": [
-          {
-            "tipo": "subtitulo",
-            "texto": "Ingrediente que não pode faltar 🍔"
-          },
-          {
-            "tipo": "item",
-            "texto": "Ensino médio cursando ou completo."
-          }
-        ]
-      },
-      {
-        "titulo": "Informações adicionais",
-        "blocos": [
-          {
-            "tipo": "subtitulo",
-            "texto": "Benefícios que deixam tudo ainda mais gostoso 😋"
-          },
-          {
-            "tipo": "item",
-            "texto": "Assistência Médica"
-          },
-          {
-            "tipo": "item",
-            "texto": "Assistência Odontológica;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Vale transporte;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Refeição no local;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Gympass;"
-          },
-          {
-            "tipo": "item",
-            "texto": "Seguro de vida;"
-          },
-          {
-            "tipo": "item",
-            "texto": "PPR - Participação nos lucros."
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Pronto para uma experiência tão inesquecível quanto um Big Mac? Se inscreva! ⌨"
-          }
-        ]
-      }
-    ]
-  },
   "12748036": {
     "fonte": "html",
     "secoes": [
@@ -29095,223 +28999,6 @@
           {
             "tipo": "texto",
             "texto": "– Conforto, identidade e orgulho de vestir a nossa marca no dia a dia."
-          }
-        ]
-      }
-    ]
-  },
-  "1000019262": {
-    "fonte": "html",
-    "secoes": [
-      {
-        "titulo": "Responsabilidades",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "Traduzir manuais técnicos e outros documentos."
-          },
-          {
-            "tipo": "item",
-            "texto": "Revisar a ortografia e a gramática de artigos."
-          },
-          {
-            "tipo": "item",
-            "texto": "Zelar pela fidelidade ao conteúdo original, pela consistência terminológica e pela clareza dos textos."
-          },
-          {
-            "tipo": "item",
-            "texto": "Organizar as entregas e cumprir os prazos acordados."
-          }
-        ]
-      },
-      {
-        "titulo": "Informações da vaga",
-        "blocos": [
-          {
-            "tipo": "subtitulo",
-            "texto": "Modelo de trabalho:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "remoto."
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Remuneração:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "R$ 1.800 + comissão."
-          },
-          {
-            "tipo": "subtitulo",
-            "texto": "Empresa:"
-          },
-          {
-            "tipo": "texto",
-            "texto": "STAR DO BRASIL LOCALIZACAO E TECNOLOGIA LTDA."
-          }
-        ]
-      },
-      {
-        "titulo": "Requisitos",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "Ensino Médio completo; ensino superior em andamento é desejável."
-          },
-          {
-            "tipo": "item",
-            "texto": "Conhecimento intermediário a proficiente de inglês e/ou espanhol para realizar traduções."
-          },
-          {
-            "tipo": "item",
-            "texto": "Boa escrita e atenção à ortografia, gramática e pontuação."
-          },
-          {
-            "tipo": "item",
-            "texto": "Capacidade de revisar textos e manter consistência de estilo e terminologia."
-          },
-          {
-            "tipo": "item",
-            "texto": "Organização e atenção aos detalhes para lidar com diferentes documentos e prazos."
-          },
-          {
-            "tipo": "item",
-            "texto": "Comunicação clara, responsabilidade e autonomia para trabalhar remotamente."
-          },
-          {
-            "tipo": "item",
-            "texto": "Assistência médica"
-          },
-          {
-            "tipo": "item",
-            "texto": "Assistência odontológica"
-          },
-          {
-            "tipo": "item",
-            "texto": "Auxílio-internet"
-          },
-          {
-            "tipo": "item",
-            "texto": "Convênios e descontos comerciais"
-          },
-          {
-            "tipo": "item",
-            "texto": "Trabalho remoto"
-          },
-          {
-            "tipo": "item",
-            "texto": "Vale-alimentação"
-          },
-          {
-            "tipo": "item",
-            "texto": "Vale-refeição"
-          },
-          {
-            "tipo": "item",
-            "texto": "Vale-transporte"
-          }
-        ]
-      }
-    ]
-  },
-  "1000019254": {
-    "fonte": "html",
-    "secoes": [
-      {
-        "titulo": "Responsabilidades",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "Organizar e acompanhar controles financeiros, pagamentos e recebimentos."
-          },
-          {
-            "tipo": "item",
-            "texto": "Realizar conciliações, conferir valores e investigar divergências."
-          },
-          {
-            "tipo": "item",
-            "texto": "Criar, aprimorar e manter planilhas, relatórios e análises financeiras."
-          },
-          {
-            "tipo": "item",
-            "texto": "Cruzar bases de dados e consolidar informações para oferecer uma visão clara da operação."
-          },
-          {
-            "tipo": "item",
-            "texto": "Identificar oportunidades de melhoria e automatizar tarefas para tornar os processos mais eficientes."
-          },
-          {
-            "tipo": "item",
-            "texto": "Conduzir entregas com autonomia, organização e atenção aos prazos e detalhes."
-          }
-        ]
-      },
-      {
-        "titulo": "Requisitos técnicos",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "Experiência em rotinas financeiras compatível com nível pleno."
-          },
-          {
-            "tipo": "item",
-            "texto": "Excel avançado, incluindo fórmulas, funções de busca, tabelas dinâmicas e cruzamento de bases."
-          },
-          {
-            "tipo": "item",
-            "texto": "Inglês intermediário ou avançado."
-          },
-          {
-            "tipo": "item",
-            "texto": "Ensino superior em andamento em Ciências Contábeis, Gestão Financeira, Administração ou área relacionada."
-          },
-          {
-            "tipo": "item",
-            "texto": "Facilidade com números, lógica e cálculos."
-          },
-          {
-            "tipo": "item",
-            "texto": "Agilidade no uso de computadores e disposição para aprender novos sistemas."
-          }
-        ]
-      },
-      {
-        "titulo": "Competências comportamentais",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "Perfil analítico e atenção aos detalhes."
-          },
-          {
-            "tipo": "item",
-            "texto": "Iniciativa para investigar divergências e buscar soluções."
-          },
-          {
-            "tipo": "item",
-            "texto": "Autonomia e organização na condução das entregas."
-          },
-          {
-            "tipo": "item",
-            "texto": "Responsabilidade no tratamento de informações confidenciais e no cumprimento de prazos acordados."
-          },
-          {
-            "tipo": "item",
-            "texto": "Interesse em aprimorar planilhas e processos de trabalho."
-          }
-        ]
-      },
-      {
-        "titulo": "Diferenciais",
-        "blocos": [
-          {
-            "tipo": "item",
-            "texto": "Conhecimento em Power Query, Power BI, automação de planilhas ou sistemas de gestão financeira."
-          },
-          {
-            "tipo": "texto",
-            "texto": "Ajuda de custo Pausa semestral Oportunidade de crescimento interna"
           }
         ]
       }
@@ -142801,6 +142488,942 @@
           {
             "tipo": "subtitulo",
             "texto": "Pronto para uma experiência tão inesquecível quanto um Big Mac? Se inscreva! ⌨"
+          }
+        ]
+      }
+    ]
+  },
+  "12780512": {
+    "fonte": "html",
+    "secoes": [
+      {
+        "titulo": "Responsabilidades",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Apoiar as rotinas administrativas e operacionais da área, garantindo o atendimento das demandas internas dentro dos prazos estabelecidos;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Realizar o acompanhamento e controle de solicitações, assegurando o fluxo adequado dos processos e o atendimento às necessidades das equipes;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Gerenciar registros e ocorrências da área, realizando os direcionamentos necessários para tratativas e acompanhamento das ações;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Apoiar o monitoramento de indicadores, contribuindo para a análise de resultados e identificação de oportunidades de melhoria;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Atuar na organização e acompanhamento de treinamentos e ações voltadas ao desenvolvimento e conformidade dos processos;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Realizar interface com fornecedores e áreas internas para suporte às atividades e atendimento das demandas da operação;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Apoiar o acompanhamento dos custos e despesas da área, contribuindo para o controle e a eficiência dos recursos."
+          }
+        ]
+      },
+      {
+        "titulo": "Requisitos",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Ensino médio completo;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Boa comunicação oral e escrita;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Habilidade com Pacote Office, em especial Excel;"
+          },
+          {
+            "tipo": "item",
+            "texto": "Será um diferencial conhecimento em Power BI."
+          }
+        ]
+      },
+      {
+        "titulo": "Informações adicionais",
+        "blocos": [
+          {
+            "tipo": "texto",
+            "texto": "Convênio Médico;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "Convênio Odontológico;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "Seguro de Vida;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "Vale Transporte;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "Vale Refeição e/ou Alimentação;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "Cartão Farmácia;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "WellHub;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "Clube de Vantagens;"
+          },
+          {
+            "tipo": "texto",
+            "texto": "Programa de Lucros e Resultados."
+          }
+        ]
+      }
+    ]
+  },
+  "12725583": {
+    "fonte": "html",
+    "secoes": [
+      {
+        "titulo": "Responsabilidades",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Conhecimento em"
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Excel"
+          },
+          {
+            "tipo": "texto",
+            "texto": "e"
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Outlook"
+          },
+          {
+            "tipo": "texto",
+            "texto": "."
+          },
+          {
+            "tipo": "item",
+            "texto": "Atuação no fluxo operacional de promoções e folhetos comerciais."
+          },
+          {
+            "tipo": "item",
+            "texto": "Responsável pelo acompanhamento das categorias participantes das campanhas."
+          },
+          {
+            "tipo": "item",
+            "texto": "Cadastro e manutenção de estruturas promocionais."
+          },
+          {
+            "tipo": "item",
+            "texto": "Controle de prazos e acompanhamento da produção de folhetos."
+          },
+          {
+            "tipo": "item",
+            "texto": "Definição e validação de produtos participantes."
+          },
+          {
+            "tipo": "item",
+            "texto": "Conferência e garantia do atendimento às solicitações da área Comercial."
+          },
+          {
+            "tipo": "item",
+            "texto": "Gestão de uma esteira de atividades com foco em organização e cumprimento de cronogramas."
+          },
+          {
+            "tipo": "item",
+            "texto": "Elaboração de briefing de produtos para materiais promocionais."
+          },
+          {
+            "tipo": "item",
+            "texto": "Interface constante com equipes de"
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Marketing"
+          },
+          {
+            "tipo": "texto",
+            "texto": ","
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Comercial"
+          },
+          {
+            "tipo": "texto",
+            "texto": "e agências parceiras."
+          },
+          {
+            "tipo": "item",
+            "texto": "Acompanhamento e cobrança de entregas e prazos junto às áreas envolvidas."
+          }
+        ]
+      },
+      {
+        "titulo": "Requisitos",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Experiência comprovada na área de atuação."
+          }
+        ]
+      },
+      {
+        "titulo": "Informações adicionais",
+        "blocos": [
+          {
+            "tipo": "subtitulo",
+            "texto": "Benefícios"
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Saúde e Bem-estar para você e seus(suas) dependentes:"
+          },
+          {
+            "tipo": "item",
+            "texto": "Assistência Médica."
+          },
+          {
+            "tipo": "item",
+            "texto": "Assistência Odontológica."
+          },
+          {
+            "tipo": "item",
+            "texto": "Seguro de Vida."
+          },
+          {
+            "tipo": "item",
+            "texto": "Parceria com academias (GymPass e TotalPass)."
+          },
+          {
+            "tipo": "item",
+            "texto": "Como empresa cidadã, também oferecemos extensão da Licença Maternidade/Parentalidade e Paternidade."
+          },
+          {
+            "tipo": "item",
+            "texto": "Cartão da Mamãe: Oferecemos as colaboradoras que são mães, com filhos entre 6 meses e 1 ano,11 meses e 29 dias, este benefício com valor mensal para aquisição de produtos alimentícios e infantis nas lojas GPA."
+          },
+          {
+            "tipo": "item",
+            "texto": "SESC: Para você e sua família aproveitarem os benefícios nas áreas de educação, saúde, cultura e lazer."
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Na empresa:"
+          },
+          {
+            "tipo": "item",
+            "texto": "Vale refeição ou refeição no local (CDs)."
+          },
+          {
+            "tipo": "item",
+            "texto": "PPR: Programa Anual de Participação nos Resultados."
+          },
+          {
+            "tipo": "item",
+            "texto": "Vale Transporte."
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Benefícios que só o GPA tem:"
+          },
+          {
+            "tipo": "item",
+            "texto": "Universidade do Varejo GPA: Valorizamos o protagonismo e incentivamos o autodesenvolvimento dos nossos(as) colaboradores(as) e você poderá ter acesso a ferramentas, conteúdos e soluções educacionais atuais e de excelente qualidade para o seu desenvolvimento."
+          },
+          {
+            "tipo": "item",
+            "texto": "Prosin: Programa de recrutamento interno com oportunidades que contribuem para o desenvolvimento da sua carreira."
+          },
+          {
+            "tipo": "item",
+            "texto": "Programa VEM: Para você aproveitar os descontos em produtos das marcas próprias do GPA."
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Serviço Social:"
+          },
+          {
+            "tipo": "item",
+            "texto": "Atendimento gratuito com psicólogos e assistentes sociais, para você e seus familiares, 7 dias por semana, 24 horas por dia."
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Você também pode optar por:"
+          },
+          {
+            "tipo": "item",
+            "texto": "Cooperativa de Crédito (participantes da Cooperativa possuem descontos exclusivos com empresas parceiras)."
+          },
+          {
+            "tipo": "item",
+            "texto": "Previdência Privada."
+          }
+        ]
+      }
+    ]
+  },
+  "12632254": {
+    "fonte": "html",
+    "secoes": [
+      {
+        "titulo": "Responsabilidades",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Realizar a limpeza interna e externa de todos os espaços da unidade (como escritório, área de serviço, cozinha, banheiro, copa, vestiários, recepção, escadas, corredor, entre outros)."
+          },
+          {
+            "tipo": "item",
+            "texto": "Higienizar o bebedouro ou a máquina de café."
+          },
+          {
+            "tipo": "item",
+            "texto": "Higienização de banheiros e reposição de materiais de higiene."
+          },
+          {
+            "tipo": "item",
+            "texto": "Coleta dos lixos comuns e recicláveis, descartando-os nos locais indicados no estabelecimento."
+          },
+          {
+            "tipo": "item",
+            "texto": "Lavagem de vidros, janelas, vidraças, assoalhos e remoção da poeira dos móveis."
+          },
+          {
+            "tipo": "item",
+            "texto": "Sinalizar locais que estão molhados e escorregadios, para que sejam evitados acidentes."
+          },
+          {
+            "tipo": "item",
+            "texto": "Armazenar os produtos e utensílios/ferramentas de trabalho em locais apropriados garantindo a segurança e organização, tal como uso consciente e devido, sem desperdício."
+          },
+          {
+            "tipo": "item",
+            "texto": "Abastecer os ambientes com materiais (papel, copo, etc.)."
+          }
+        ]
+      },
+      {
+        "titulo": "Requisitos",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Experiência prévia em fução na area de limpeza e conservação de ambientes."
+          },
+          {
+            "tipo": "item",
+            "texto": "Excelente habilidade de organização e gerenciamento do tempo."
+          },
+          {
+            "tipo": "item",
+            "texto": "Boa habilidade de comunicação."
+          },
+          {
+            "tipo": "item",
+            "texto": "Capacidade de trabalhar em equipe e realizar tarefas sob supervisão."
+          }
+        ]
+      },
+      {
+        "titulo": "Informações adicionais",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Escala: 12x36 (ou seja, trabalha um dia e folga no outro)."
+          },
+          {
+            "tipo": "item",
+            "texto": "Horário: das 20h00 às 08h00."
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Oferecemos:"
+          },
+          {
+            "tipo": "item",
+            "texto": "Vale Refeição"
+          },
+          {
+            "tipo": "item",
+            "texto": "Vale Alimentação"
+          },
+          {
+            "tipo": "item",
+            "texto": "Vale Transporte ou Vale Combustível"
+          },
+          {
+            "tipo": "item",
+            "texto": "Convenio Odontológico após 90 dias"
+          },
+          {
+            "tipo": "item",
+            "texto": "Convenio Médico após 90 dias"
+          },
+          {
+            "tipo": "item",
+            "texto": "Convenio com academia -Totalpass"
+          },
+          {
+            "tipo": "item",
+            "texto": "Folga aniversário - Day Off"
+          }
+        ]
+      }
+    ]
+  },
+  "12630304": {
+    "fonte": "html",
+    "secoes": [
+      {
+        "titulo": "Responsabilidades",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Realizar a limpeza interna e externa de todos os espaços da unidade (como escritório, área de serviço, cozinha, banheiro, copa, vestiários, recepção, escadas, corredor, entre outros)."
+          },
+          {
+            "tipo": "item",
+            "texto": "Higienizar o bebedouro ou a máquina de café."
+          },
+          {
+            "tipo": "item",
+            "texto": "Higienização de banheiros e reposição de materiais de higiene."
+          },
+          {
+            "tipo": "item",
+            "texto": "Coleta dos lixos comuns e recicláveis, descartando-os nos locais indicados no estabelecimento."
+          },
+          {
+            "tipo": "item",
+            "texto": "Lavagem de vidros, janelas, vidraças, assoalhos e remoção da poeira dos móveis."
+          },
+          {
+            "tipo": "item",
+            "texto": "Sinalizar locais que estão molhados e escorregadios, para que sejam evitados acidentes."
+          },
+          {
+            "tipo": "item",
+            "texto": "Armazenar os produtos e utensílios/ferramentas de trabalho em locais apropriados garantindo a segurança e organização, tal como uso consciente e devido, sem desperdício."
+          },
+          {
+            "tipo": "item",
+            "texto": "Abastecer os ambientes com materiais (papel, copo, etc.)."
+          }
+        ]
+      },
+      {
+        "titulo": "Requisitos",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Experiência prévia em fução na area de limpeza e conservação de ambientes."
+          },
+          {
+            "tipo": "item",
+            "texto": "Excelente habilidade de organização e gerenciamento do tempo."
+          },
+          {
+            "tipo": "item",
+            "texto": "Boa habilidade de comunicação."
+          },
+          {
+            "tipo": "item",
+            "texto": "Capacidade de trabalhar em equipe e realizar tarefas sob supervisão."
+          }
+        ]
+      },
+      {
+        "titulo": "Informações adicionais",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Escala: 12x36 (ou seja, trabalha um dia e folga no outro)."
+          },
+          {
+            "tipo": "item",
+            "texto": "Horário: das 08h00 às 20h00 ou das 20h00 às 08h00."
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Oferecemos:"
+          },
+          {
+            "tipo": "item",
+            "texto": "Vale Refeição"
+          },
+          {
+            "tipo": "item",
+            "texto": "Vale Alimentação"
+          },
+          {
+            "tipo": "item",
+            "texto": "Vale Transporte ou Vale Combustível"
+          },
+          {
+            "tipo": "item",
+            "texto": "Convenio Odontológico após 90 dias"
+          },
+          {
+            "tipo": "item",
+            "texto": "Convenio Médico após 90 dias"
+          },
+          {
+            "tipo": "item",
+            "texto": "Convenio com academia -Totalpass"
+          },
+          {
+            "tipo": "item",
+            "texto": "Folga aniversário - Day Off"
+          }
+        ]
+      }
+    ]
+  },
+  "12677352": {
+    "fonte": "html",
+    "secoes": [
+      {
+        "titulo": "Responsabilidades",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Recepcionar e prestar serviços de apoio a passageiros nativos e estrangeiros."
+          },
+          {
+            "tipo": "item",
+            "texto": "Fornecer informações de acesso."
+          },
+          {
+            "tipo": "item",
+            "texto": "Observar normas internas de segurança, conferindo documentos e idoneidade dos clientes."
+          },
+          {
+            "tipo": "item",
+            "texto": "Averiguar suas necessidades durante sua estada em nosso espaço."
+          },
+          {
+            "tipo": "item",
+            "texto": "Organizar informações e planejar o trabalho do cotidiano."
+          },
+          {
+            "tipo": "item",
+            "texto": "Ser capaz de coordenar o próprio trabalho e atender as solicitações de visitantes externos e internos."
+          },
+          {
+            "tipo": "item",
+            "texto": "Ser capaz de compreender as atividades desenvolvidas pelos diferentes departamentos e dar encaminhamento as solicitações de visitantes externos e internos."
+          },
+          {
+            "tipo": "item",
+            "texto": "Falar com clareza e discrição."
+          },
+          {
+            "tipo": "item",
+            "texto": "Ser atencioso e gentil."
+          },
+          {
+            "tipo": "item",
+            "texto": "Ser solícito e colaborativo."
+          },
+          {
+            "tipo": "item",
+            "texto": "Cumprir as determinações da chefia imediata e comunicar toda e qualquer anormalidade no ambiente em que atua."
+          }
+        ]
+      },
+      {
+        "titulo": "Requisitos",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Ensino Médio Completo."
+          },
+          {
+            "tipo": "item",
+            "texto": "Habilidade de comunicação."
+          },
+          {
+            "tipo": "item",
+            "texto": "Experiência em atendimento ao cliente."
+          },
+          {
+            "tipo": "item",
+            "texto": "Desejável experiência em recepção hoteleira ou aeroportuária."
+          },
+          {
+            "tipo": "item",
+            "texto": "Capacidade de trabalhar em equipe."
+          },
+          {
+            "tipo": "item",
+            "texto": "Capacidade de se adaptar a um ambiente dinâmico."
+          },
+          {
+            "tipo": "item",
+            "texto": "Capacidade de organização e atenção aos detalhes."
+          },
+          {
+            "tipo": "item",
+            "texto": "Inglês avançado ou minimamente intermediário."
+          },
+          {
+            "tipo": "item",
+            "texto": "Espanhol intermediário (desejável)."
+          }
+        ]
+      },
+      {
+        "titulo": "Informações adicionais",
+        "blocos": [
+          {
+            "tipo": "subtitulo",
+            "texto": "Escala:"
+          },
+          {
+            "tipo": "texto",
+            "texto": "6x1 com a carga horária de 6hrs."
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Horário:"
+          },
+          {
+            "tipo": "texto",
+            "texto": "04:00h às 10:00h."
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Oferecemos:"
+          },
+          {
+            "tipo": "item",
+            "texto": "Vale Refeição"
+          },
+          {
+            "tipo": "item",
+            "texto": "Vale Alimentação"
+          },
+          {
+            "tipo": "item",
+            "texto": "Vale Transporte ou Vale Combustível"
+          },
+          {
+            "tipo": "item",
+            "texto": "Convenio Odontológico"
+          },
+          {
+            "tipo": "item",
+            "texto": "Convenio com academia - Gympass"
+          },
+          {
+            "tipo": "item",
+            "texto": "Folga aniversário - Day Off"
+          }
+        ]
+      }
+    ]
+  },
+  "12747694": {
+    "fonte": "html",
+    "secoes": [
+      {
+        "titulo": "Responsabilidades",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Recepcionar e prestar serviços de apoio a passageiros nativos e estrangeiros."
+          },
+          {
+            "tipo": "item",
+            "texto": "Fornecer informações de acesso."
+          },
+          {
+            "tipo": "item",
+            "texto": "Observar normas internas de segurança, conferindo documentos e idoneidade dos clientes."
+          },
+          {
+            "tipo": "item",
+            "texto": "Averiguar suas necessidades durante sua estada em nosso espaço."
+          },
+          {
+            "tipo": "item",
+            "texto": "Organizar informações e planejar o trabalho do cotidiano."
+          },
+          {
+            "tipo": "item",
+            "texto": "Ser capaz de coordenar o próprio trabalho e atender as solicitações de visitantes externos e internos."
+          },
+          {
+            "tipo": "item",
+            "texto": "Ser capaz de compreender as atividades desenvolvidas pelos diferentes departamentos e dar encaminhamento as solicitações de visitantes externos e internos."
+          },
+          {
+            "tipo": "item",
+            "texto": "Falar com clareza e discrição."
+          },
+          {
+            "tipo": "item",
+            "texto": "Ser atencioso e gentil."
+          },
+          {
+            "tipo": "item",
+            "texto": "Ser solícito e colaborativo."
+          },
+          {
+            "tipo": "item",
+            "texto": "Cumprir as determinações da chefia imediata e comunicar toda e qualquer anormalidade no ambiente em que atua."
+          }
+        ]
+      },
+      {
+        "titulo": "Requisitos",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Ensino Médio Completo."
+          },
+          {
+            "tipo": "item",
+            "texto": "Habilidade de comunicação."
+          },
+          {
+            "tipo": "item",
+            "texto": "Experiência em atendimento ao cliente."
+          },
+          {
+            "tipo": "item",
+            "texto": "Desejável experiência em recepção hoteleira ou aeroportuária."
+          },
+          {
+            "tipo": "item",
+            "texto": "Capacidade de trabalhar em equipe."
+          },
+          {
+            "tipo": "item",
+            "texto": "Capacidade de se adaptar a um ambiente dinâmico."
+          },
+          {
+            "tipo": "item",
+            "texto": "Capacidade de organização e atenção aos detalhes."
+          },
+          {
+            "tipo": "item",
+            "texto": "Inglês avançado ou minimamente intermediário."
+          },
+          {
+            "tipo": "item",
+            "texto": "Espanhol intermediário (desejável)."
+          }
+        ]
+      },
+      {
+        "titulo": "Informações adicionais",
+        "blocos": [
+          {
+            "tipo": "subtitulo",
+            "texto": "Escala:"
+          },
+          {
+            "tipo": "texto",
+            "texto": "6x1 com a carga horária de 6hrs."
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Horário:"
+          },
+          {
+            "tipo": "texto",
+            "texto": "à definir"
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Oferecemos:"
+          },
+          {
+            "tipo": "item",
+            "texto": "Vale Refeição"
+          },
+          {
+            "tipo": "item",
+            "texto": "Vale Alimentação"
+          },
+          {
+            "tipo": "item",
+            "texto": "Vale Transporte ou Vale Combustível"
+          },
+          {
+            "tipo": "item",
+            "texto": "Convenio Odontológico"
+          },
+          {
+            "tipo": "item",
+            "texto": "Convenio com academia - Gympass"
+          },
+          {
+            "tipo": "item",
+            "texto": "Folga aniversário - Day Off"
+          }
+        ]
+      }
+    ]
+  },
+  "12721889": {
+    "fonte": "html",
+    "secoes": [
+      {
+        "titulo": "Responsabilidades",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Recepcionar e prestar serviços de apoio a passageiros nativos e estrangeiros."
+          },
+          {
+            "tipo": "item",
+            "texto": "Fornecer informações de acesso."
+          },
+          {
+            "tipo": "item",
+            "texto": "Observar normas internas de segurança, conferindo documentos e idoneidade dos clientes."
+          },
+          {
+            "tipo": "item",
+            "texto": "Averiguar suas necessidades durante sua estada em nosso espaço."
+          },
+          {
+            "tipo": "item",
+            "texto": "Organizar informações e planejar o trabalho do cotidiano."
+          },
+          {
+            "tipo": "item",
+            "texto": "Ser capaz de coordenar o próprio trabalho e atender as solicitações de visitantes externos e internos."
+          },
+          {
+            "tipo": "item",
+            "texto": "Ser capaz de compreender as atividades desenvolvidas pelos diferentes departamentos e dar encaminhamento as solicitações de visitantes externos e internos."
+          },
+          {
+            "tipo": "item",
+            "texto": "Falar com clareza e discrição."
+          },
+          {
+            "tipo": "item",
+            "texto": "Ser atencioso e gentil."
+          },
+          {
+            "tipo": "item",
+            "texto": "Ser solícito e colaborativo."
+          },
+          {
+            "tipo": "item",
+            "texto": "Cumprir as determinações da chefia imediata e comunicar toda e qualquer anormalidade no ambiente em que atua."
+          }
+        ]
+      },
+      {
+        "titulo": "Requisitos",
+        "blocos": [
+          {
+            "tipo": "item",
+            "texto": "Ensino Médio Completo."
+          },
+          {
+            "tipo": "item",
+            "texto": "Habilidade de comunicação."
+          },
+          {
+            "tipo": "item",
+            "texto": "Experiência em atendimento ao cliente."
+          },
+          {
+            "tipo": "item",
+            "texto": "Desejável experiência em recepção hoteleira ou aeroportuária."
+          },
+          {
+            "tipo": "item",
+            "texto": "Capacidade de trabalhar em equipe."
+          },
+          {
+            "tipo": "item",
+            "texto": "Capacidade de se adaptar a um ambiente dinâmico."
+          },
+          {
+            "tipo": "item",
+            "texto": "Capacidade de organização e atenção aos detalhes."
+          },
+          {
+            "tipo": "item",
+            "texto": "Inglês avançado ou minimamente intermediário."
+          },
+          {
+            "tipo": "item",
+            "texto": "Espanhol intermediário (desejável)."
+          }
+        ]
+      },
+      {
+        "titulo": "Informações adicionais",
+        "blocos": [
+          {
+            "tipo": "subtitulo",
+            "texto": "Escala:"
+          },
+          {
+            "tipo": "texto",
+            "texto": "6x1 com a carga horária de 6hrs."
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Horário:"
+          },
+          {
+            "tipo": "texto",
+            "texto": "à definir"
+          },
+          {
+            "tipo": "subtitulo",
+            "texto": "Oferecemos:"
+          },
+          {
+            "tipo": "item",
+            "texto": "Vale Refeição"
+          },
+          {
+            "tipo": "item",
+            "texto": "Vale Alimentação"
+          },
+          {
+            "tipo": "item",
+            "texto": "Vale Transporte ou Vale Combustível"
+          },
+          {
+            "tipo": "item",
+            "texto": "Convenio Odontológico"
+          },
+          {
+            "tipo": "item",
+            "texto": "Convenio com academia - Gympass"
+          },
+          {
+            "tipo": "item",
+            "texto": "Folga aniversário - Day Off"
           }
         ]
       }
